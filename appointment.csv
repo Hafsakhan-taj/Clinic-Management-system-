@@ -1,0 +1,121 @@
+appointment_id,patient_id,doctor_id,appointment_date,appointment_time,status,notes
+1,55,6,2023-06-14,15:30:00,Scheduled,Follow-up visit after previous treatment.
+2,30,3,2023-06-09,13:00:00,Scheduled,Patient complains of fever and body aches.
+3,43,18,2023-08-14,08:15:00,Cancelled,Patient has allergy symptoms.
+4,40,16,2023-11-15,08:15:00,Completed,Skin rash on arms since last week.
+5,60,10,2023-08-23,15:00:00,Completed,Child vaccination and growth checkup.
+6,46,6,2023-05-18,08:45:00,Completed,Child vaccination and growth checkup.
+7,54,4,2023-08-04,10:45:00,Completed,Patient reports persistent headache.
+8,27,16,2023-08-08,15:15:00,Scheduled,Pregnancy follow-up at 20 weeks.
+9,59,17,2023-12-05,09:30:00,Scheduled,Blood pressure monitoring visit.
+10,60,17,2023-05-27,08:30:00,Completed,
+11,56,5,2023-08-18,15:30:00,Completed,Annual health screening.
+12,30,11,2023-04-23,11:45:00,Completed,Patient reports back pain.
+13,3,11,2023-12-16,14:45:00,Completed,
+14,3,5,2023-09-19,13:00:00,Scheduled,Patient reports chest pain and shortness of breath.
+15,34,15,2023-01-24,10:45:00,Completed,Routine checkup requested by patient.
+16,31,9,2023-06-20,14:00:00,Completed,Annual health screening.
+17,21,16,2023-09-02,09:15:00,Completed,Child vaccination and growth checkup.
+18,48,3,2023-07-04,09:45:00,Completed,Post-surgery follow-up visit.
+19,58,1,2023-01-11,08:30:00,Completed,Patient has allergy symptoms.
+20,28,5,2023-04-17,14:15:00,Completed,Joint pain in left knee for two months.
+21,6,13,2023-10-22,11:45:00,No-Show,Skin rash on arms since last week.
+22,15,15,2023-11-09,15:30:00,Completed,Diabetes management consultation.
+23,58,10,2023-11-18,10:00:00,Scheduled,Patient has allergy symptoms.
+24,38,10,2023-11-14,12:45:00,Completed,Pregnancy follow-up at 20 weeks.
+25,25,16,2023-02-08,14:30:00,No-Show,Post-surgery follow-up visit.
+26,45,10,2023-01-27,14:30:00,Completed,Follow-up visit after previous treatment.
+27,59,16,2023-05-25,11:30:00,Completed,Pregnancy follow-up at 20 weeks.
+28,40,9,2023-11-25,10:00:00,Completed,Post-surgery follow-up visit.
+29,51,15,2023-01-19,13:15:00,Completed,Post-surgery follow-up visit.
+30,21,14,2023-03-07,10:30:00,Cancelled,Patient reports persistent headache.
+31,54,6,2023-05-27,15:30:00,Completed,Patient reports chest pain and shortness of breath.
+32,30,3,2023-03-25,11:45:00,Cancelled,Patient has allergy symptoms.
+33,6,13,2023-01-09,16:00:00,Scheduled,Patient has allergy symptoms.
+34,44,9,2023-10-13,13:00:00,Completed,
+35,2,18,2023-06-20,11:00:00,Scheduled,Post-surgery follow-up visit.
+36,42,14,2023-02-05,08:00:00,Completed,
+37,8,4,2023-04-18,10:45:00,Scheduled,Patient has allergy symptoms.
+38,43,18,2023-07-19,10:45:00,Completed,
+39,40,14,2023-05-02,13:15:00,Scheduled,Diabetes management consultation.
+40,16,12,2023-02-22,13:30:00,Completed,Annual health screening.
+41,18,7,2023-02-28,15:00:00,Completed,Patient complains of fever and body aches.
+42,4,11,2023-04-05,11:00:00,Cancelled,Pregnancy follow-up at 20 weeks.
+43,38,7,2023-04-11,10:00:00,Completed,Skin rash on arms since last week.
+44,9,18,2023-05-26,10:00:00,Completed,Skin rash on arms since last week.
+45,1,12,2023-04-19,13:00:00,Completed,Patient reports persistent headache.
+46,4,5,2023-12-14,16:00:00,Completed,
+47,29,12,2023-09-19,09:45:00,Cancelled,Child vaccination and growth checkup.
+48,40,2,2023-12-26,16:30:00,Scheduled,Patient complains of fever and body aches.
+49,4,16,2023-07-14,09:45:00,Scheduled,Routine checkup requested by patient.
+50,58,3,2023-06-20,10:00:00,Completed,Patient reports persistent headache.
+51,40,18,2023-12-11,14:30:00,Scheduled,Patient reports back pain.
+52,7,4,2023-11-21,16:15:00,Scheduled,Diabetes management consultation.
+53,57,8,2023-07-11,15:45:00,Scheduled,Patient reports chest pain and shortness of breath.
+54,21,14,2023-06-22,12:30:00,Completed,
+55,5,3,2023-02-03,14:00:00,Completed,Skin rash on arms since last week.
+56,36,2,2023-10-18,16:30:00,Completed,Patient reports back pain.
+57,23,14,2023-12-02,12:30:00,Completed,Patient reports chest pain and shortness of breath.
+58,37,17,2023-04-05,15:15:00,Completed,Patient has allergy symptoms.
+59,55,18,2023-06-04,12:15:00,Scheduled,Patient complains of fever and body aches.
+60,39,9,2023-01-06,12:30:00,Completed,Patient has allergy symptoms.
+61,1,6,2023-03-19,14:00:00,Completed,Patient complains of fever and body aches.
+62,6,17,2023-04-13,14:45:00,Completed,Joint pain in left knee for two months.
+63,24,10,2023-12-11,09:00:00,Completed,Joint pain in left knee for two months.
+64,49,2,2023-11-03,12:45:00,Scheduled,
+65,39,15,2023-07-09,11:00:00,Completed,Patient reports back pain.
+66,8,10,2023-11-22,15:30:00,Completed,Child vaccination and growth checkup.
+67,26,2,2023-01-07,12:15:00,Completed,Patient reports persistent headache.
+68,19,11,2023-02-01,15:45:00,Completed,Skin rash on arms since last week.
+69,25,18,2023-12-08,16:30:00,Completed,Annual health screening.
+70,56,2,2023-07-01,15:00:00,Completed,Patient reports back pain.
+71,37,13,2023-12-21,14:30:00,Completed,Annual health screening.
+72,2,11,2023-03-26,15:30:00,Completed,Patient reports back pain.
+73,55,4,2023-04-14,14:00:00,Scheduled,Post-surgery follow-up visit.
+74,48,11,2023-04-11,10:00:00,Cancelled,Patient reports chest pain and shortness of breath.
+75,34,17,2023-04-25,13:30:00,Completed,Child vaccination and growth checkup.
+76,7,5,2023-05-07,10:15:00,Completed,Joint pain in left knee for two months.
+77,50,16,2023-08-25,15:30:00,Completed,Skin rash on arms since last week.
+78,29,3,2023-08-15,12:30:00,No-Show,Follow-up visit after previous treatment.
+79,23,17,2023-02-10,15:45:00,Completed,Follow-up visit after previous treatment.
+80,24,10,2023-02-21,09:45:00,Scheduled,Follow-up visit after previous treatment.
+81,29,7,2023-06-20,15:15:00,Completed,Diabetes management consultation.
+82,7,11,2023-12-03,16:15:00,Completed,Child vaccination and growth checkup.
+83,46,15,2023-08-17,16:15:00,Completed,Patient has allergy symptoms.
+84,59,10,2023-07-14,13:00:00,Completed,Routine checkup requested by patient.
+85,22,4,2023-09-22,14:30:00,Completed,Skin rash on arms since last week.
+86,22,3,2023-10-22,10:30:00,Completed,Annual health screening.
+87,9,3,2023-05-18,14:30:00,Completed,Routine checkup requested by patient.
+88,42,14,2023-09-12,08:30:00,Completed,Joint pain in left knee for two months.
+89,14,11,2023-08-07,11:15:00,Completed,Routine checkup requested by patient.
+90,19,4,2023-09-25,16:00:00,Completed,Skin rash on arms since last week.
+91,39,13,2023-03-06,10:15:00,Scheduled,Follow-up visit after previous treatment.
+92,27,12,2023-11-24,11:45:00,No-Show,Post-surgery follow-up visit.
+93,49,15,2023-04-18,11:30:00,Scheduled,Pregnancy follow-up at 20 weeks.
+94,24,15,2023-08-25,12:45:00,Cancelled,Patient reports back pain.
+95,11,7,2023-10-05,12:00:00,Scheduled,Patient has allergy symptoms.
+96,36,4,2023-12-28,16:00:00,Completed,Routine checkup requested by patient.
+97,49,6,2023-05-15,16:15:00,Scheduled,Routine checkup requested by patient.
+98,59,8,2023-08-12,08:45:00,Completed,Annual health screening.
+99,33,12,2023-04-13,09:30:00,Completed,Patient complains of fever and body aches.
+100,21,4,2023-12-21,13:15:00,Completed,Follow-up visit after previous treatment.
+101,19,16,2023-12-27,10:45:00,Scheduled,Patient complains of fever and body aches.
+102,58,3,2023-01-09,11:15:00,Cancelled,Patient reports back pain.
+103,8,10,2023-04-10,09:00:00,Completed,Patient reports back pain.
+104,41,15,2023-02-04,15:00:00,Cancelled,Child vaccination and growth checkup.
+105,46,5,2023-05-14,08:30:00,Completed,Patient reports back pain.
+106,12,3,2023-09-12,09:00:00,Scheduled,
+107,3,13,2023-06-09,08:30:00,Completed,Patient has allergy symptoms.
+108,16,4,2023-10-24,13:15:00,Completed,Patient has allergy symptoms.
+109,35,11,2023-11-06,15:45:00,Completed,Skin rash on arms since last week.
+110,5,15,2023-01-10,11:00:00,Completed,Follow-up visit after previous treatment.
+111,21,10,2023-09-13,16:45:00,Completed,Follow-up visit after previous treatment.
+112,49,7,2023-05-12,08:30:00,Completed,Patient reports chest pain and shortness of breath.
+113,52,12,2023-07-13,15:45:00,Completed,Joint pain in left knee for two months.
+114,32,16,2023-06-26,16:30:00,Completed,Patient reports back pain.
+115,6,14,2023-10-27,10:30:00,Completed,Patient reports chest pain and shortness of breath.
+116,6,11,2023-11-10,12:45:00,No-Show,Patient reports back pain.
+117,11,15,2023-06-15,08:30:00,No-Show,Patient reports back pain.
+118,18,2,2023-02-22,14:30:00,Cancelled,Joint pain in left knee for two months.
+119,2,5,2023-10-22,15:00:00,Completed,Routine checkup requested by patient.
+120,16,12,2023-06-13,08:15:00,Scheduled,Patient has allergy symptoms.

@@ -1,0 +1,71 @@
+prescription_id,appointment_id,doctor_id,patient_id,prescribed_date,medicine_name,dosage,duration,notes
+1,4,16,40,2023-11-15,Zinc Syrup 10mg,As needed,3 days,Take at bedtime.
+2,5,10,60,2023-08-23,Calcium Carbonate 500mg,Before meals,7 days,Stop if allergic reaction occurs.
+3,6,6,46,2023-05-18,Amlodipine 5mg,After meals,7 days,Avoid driving after taking this medicine.
+4,7,4,54,2023-08-04,Aspirin 75mg,Once daily,1 month,Avoid driving after taking this medicine.
+5,10,17,60,2023-05-27,ORS Sachet,Before meals,10 days,Take at bedtime.
+6,11,5,56,2023-08-18,Aspirin 75mg,Three times daily,7 days,
+7,12,11,30,2023-04-23,Methocarbamol 750mg,Twice daily,14 days,Complete the full course.
+8,13,11,3,2023-12-16,Methocarbamol 750mg,Twice daily,3 days,Avoid driving after taking this medicine.
+9,15,15,34,2023-01-24,Folic Acid 5mg,As needed,5 days,
+10,16,9,31,2023-06-20,Doxycycline 100mg,Once daily,1 month,Complete the full course.
+11,17,16,21,2023-09-02,Zinc Syrup 10mg,After meals,3 days,Take at bedtime.
+12,18,3,48,2023-07-04,Omeprazole 20mg,Three times daily,7 days,Avoid driving after taking this medicine.
+13,19,1,58,2023-01-11,Amoxicillin 500mg,Three times daily,14 days,Avoid driving after taking this medicine.
+14,20,5,28,2023-04-17,Aspirin 75mg,Twice daily,5 days,Avoid driving after taking this medicine.
+15,22,15,15,2023-11-09,Metronidazole 400mg,Once daily,7 days,Take at bedtime.
+16,24,10,38,2023-11-14,Celecoxib 200mg,Three times daily,10 days,Take at bedtime.
+17,26,10,45,2023-01-27,Calcium Carbonate 500mg,Before meals,3 days,Take with water after meals.
+18,27,16,59,2023-05-25,Zinc Syrup 10mg,As needed,1 month,
+19,28,9,40,2023-11-25,Doxycycline 100mg,Before meals,10 days,Stop if allergic reaction occurs.
+20,29,15,51,2023-01-19,Calcium + D3,Once daily,5 days,Complete the full course.
+21,31,6,54,2023-05-27,Aspirin 75mg,As needed,10 days,
+22,34,9,44,2023-10-13,Tretinoin Cream,Three times daily,5 days,Take at bedtime.
+23,36,14,42,2023-02-05,Calcium + D3,Twice daily,5 days,Stop if allergic reaction occurs.
+24,38,18,43,2023-07-19,Vitamin C 100mg,Once daily,3 days,Take at bedtime.
+25,40,12,16,2023-02-22,Calcium Carbonate 500mg,Three times daily,5 days,Avoid driving after taking this medicine.
+26,41,7,18,2023-02-28,Ketoconazole Cream,After meals,5 days,Complete the full course.
+27,43,7,38,2023-04-11,Tretinoin Cream,Three times daily,3 days,Complete the full course.
+28,44,18,9,2023-05-26,Amoxicillin Syrup 250mg,After meals,14 days,Complete the full course.
+29,45,12,1,2023-04-19,Calcium Carbonate 500mg,After meals,7 days,Take at bedtime.
+30,46,5,4,2023-12-14,Atorvastatin 20mg,Once daily,14 days,
+31,50,3,58,2023-06-20,Amoxicillin 500mg,Before meals,14 days,Avoid driving after taking this medicine.
+32,54,14,21,2023-06-22,Iron Sucrose 100mg,After meals,14 days,
+33,55,3,5,2023-02-03,Omeprazole 20mg,Three times daily,14 days,Take with water after meals.
+34,56,2,36,2023-10-18,Paracetamol 500mg,Once daily,3 days,
+35,57,14,23,2023-12-02,Calcium + D3,Three times daily,1 month,Avoid driving after taking this medicine.
+36,58,17,37,2023-04-05,Vitamin C 100mg,As needed,14 days,
+37,60,9,39,2023-01-06,Clindamycin Gel 1%,As needed,1 month,Take at bedtime.
+38,61,6,1,2023-03-19,Amlodipine 5mg,After meals,7 days,Stop if allergic reaction occurs.
+39,62,17,6,2023-04-13,Amoxicillin Syrup 250mg,After meals,10 days,Complete the full course.
+40,63,10,24,2023-12-11,Methocarbamol 750mg,Once daily,1 month,Take with water after meals.
+41,65,15,39,2023-07-09,Iron Sucrose 100mg,As needed,10 days,Stop if allergic reaction occurs.
+42,66,10,8,2023-11-22,Methocarbamol 750mg,Twice daily,7 days,Take at bedtime.
+43,67,2,26,2023-01-07,Amoxicillin 500mg,Three times daily,1 month,Complete the full course.
+44,68,11,19,2023-02-01,Vitamin D3 1000IU,As needed,5 days,Complete the full course.
+45,69,18,25,2023-12-08,Vitamin C 100mg,Before meals,3 days,Complete the full course.
+46,70,2,56,2023-07-01,Amoxicillin 500mg,As needed,3 days,Complete the full course.
+47,71,13,37,2023-12-21,Metronidazole 400mg,Twice daily,5 days,Take with water after meals.
+48,72,11,2,2023-03-26,Diclofenac 50mg,Three times daily,10 days,Take at bedtime.
+49,75,17,34,2023-04-25,ORS Sachet,Twice daily,5 days,Complete the full course.
+50,76,5,7,2023-05-07,Atorvastatin 20mg,After meals,7 days,Avoid driving after taking this medicine.
+51,77,16,50,2023-08-25,Amoxicillin Syrup 250mg,As needed,14 days,Stop if allergic reaction occurs.
+52,79,17,23,2023-02-10,ORS Sachet,Three times daily,10 days,Take with water after meals.
+53,81,7,29,2023-06-20,Clindamycin Gel 1%,As needed,14 days,Stop if allergic reaction occurs.
+54,82,11,7,2023-12-03,Calcium Carbonate 500mg,Twice daily,14 days,Complete the full course.
+55,83,15,46,2023-08-17,Folic Acid 5mg,Once daily,7 days,Stop if allergic reaction occurs.
+56,84,10,59,2023-07-14,Celecoxib 200mg,After meals,1 month,Stop if allergic reaction occurs.
+57,85,4,22,2023-09-22,Amlodipine 5mg,Before meals,3 days,Take with water after meals.
+58,86,3,22,2023-10-22,Cetirizine 10mg,Twice daily,7 days,
+59,87,3,9,2023-05-18,Ibuprofen 400mg,As needed,7 days,Take with water after meals.
+60,88,14,42,2023-09-12,Metronidazole 400mg,Once daily,14 days,Take at bedtime.
+61,89,11,14,2023-08-07,Calcium Carbonate 500mg,Three times daily,14 days,Complete the full course.
+62,90,4,19,2023-09-25,Aspirin 75mg,As needed,14 days,Stop if allergic reaction occurs.
+63,96,4,36,2023-12-28,Atorvastatin 20mg,Three times daily,14 days,
+64,98,8,59,2023-08-12,Tretinoin Cream,Once daily,5 days,Take with water after meals.
+65,99,12,33,2023-04-13,Methocarbamol 750mg,Three times daily,7 days,Take at bedtime.
+66,100,4,21,2023-12-21,Amlodipine 5mg,Twice daily,5 days,Take at bedtime.
+67,103,10,8,2023-04-10,Celecoxib 200mg,As needed,14 days,Take with water after meals.
+68,105,5,46,2023-05-14,Aspirin 75mg,Once daily,5 days,
+69,107,13,3,2023-06-09,Progesterone 200mg,As needed,14 days,Stop if allergic reaction occurs.
+70,108,4,16,2023-10-24,Atenolol 50mg,Before meals,14 days,Avoid driving after taking this medicine.
